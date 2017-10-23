@@ -5,3 +5,7 @@ Project to 2013/2014 Object Oriented Programming course of Bachelors Degree in C
 ## Goals 
 
 Develop a spreadsheet engine (similar to Excel logics but much more simpler and without GUI)
+
+## Project Group
+
+- https://github.com/carboned4
